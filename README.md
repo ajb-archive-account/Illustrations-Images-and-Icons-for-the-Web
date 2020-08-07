@@ -1,4 +1,4 @@
-# Where you find free good quality illustrations/images or icons for your websites?
+# Where to find free, good quality illustrations/images or icons for your websites?
 
 
 ## TOC:
@@ -20,7 +20,7 @@
 | [Free Illustrations](https://lukaszadam.com/illustrations) | 
 | [Drawkit](https://www.drawkit.io/) | 
 | [Open Doodles](https://opendoodles.com) | 
-| [Absurd Design](https://absurd.design) | 
+| [Absurd Design](https://absurd.design) | Basic tier is free
 | [Freepik](https://freepik.com) | 
 | [Undraw Illustrations](https://undraw.co/illustrations) | Overused now though and quality is not great.
 | [Black illustrations](https://www.blackillustrations.com/) | Illustrations of people of color.
@@ -29,16 +29,19 @@
 | [Control.Rocks](https://control.rocks/) | 
 | [Blush](https://blush.design/) | 
 
+
 ## Backgrounds & Banner Templates
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
 |-----------------|---------------------
 | [Vecteezy](https://www.vecteezy.com/free-vector/background) | 
 | [SVG backgrounds](https://svgbackgrounds.com) | SVG Backgrounds are much smaller than using a traditional background images. This tool lets you quickly generate them by choosing from various patterns and colors.
 
+
 ## Animations
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
 |-----------------|---------------------
 | [Lottiefiles](https://lottiefiles.com/) | Some are free, some are paid.
+
 
 ## Images
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
@@ -48,26 +51,31 @@
 | [Pixabay](https://pixabay.com/) |
 | [Pexels](https://pexels.com/) |
 
+
 ## Icons
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
 |-----------------|---------------------
 | [Devicon Icons](https://devicons.github.io/devicon/) |
 | [Teeny Icons](https://teenyicons.com) |
 
+
 ## Video & Music
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
 |-----------------|---------------------
 | [Mixkit](https://mixkit.co/) |
+
 
 ## CSS Effects
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
 |-----------------|---------------------
 | [CSS Gradients](https://cssgradient.io/) |
 
+
 ## Color Pallets
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
 |-----------------|---------------------
 | [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) |
+
 
 ## Curated Lists
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
