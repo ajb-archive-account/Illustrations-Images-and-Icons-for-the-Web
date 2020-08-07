@@ -1,54 +1,82 @@
-# illustrations-images-and-icons
- # Where you find free good quality illustrations/images or icons for your websites
+# Where you find free good quality illustrations/images or icons for your websites?
 
-## Where you find free good quality illustrations/images or icons for your websites
 
-### Illustrations
-- [Humaaans](https://www.humaaans.com/)
-- [Free Illustrations](https://lukaszadam.com/illustrations)
-- [Drawkit](https://www.drawkit.io/)
-- [Open Doodles](https://opendoodles.com)
-- [Absurd Design](https://absurd.design)
-- [Freepik](https://freepik.com)
-- https://undraw.co/illustrations overused now though and quality is not great.
-- [Black illustrations](https://www.blackillustrations.com/) (illustrations of people of color)
-- [Open Game Art](https://opengameart.org/)
-- [Mixkit stock art](https://mixkit.co/free-stock-art/)
-- [Control.Rocks](https://control.rocks/)
-- [Blush](https://blush.design/)
+## TOC:
+1. [Illustrations](#illustrations)
+2. [Backgrounds & Banner Templates](#backgrounds-&-banner-templates)
+3. [Animations](#animations)
+4. [Images](#images)
+5. [Icons](#icons)
+6. [Video & Music](#video-&-music)
+7. [CSS Effects](#css-effects)
+8. [Color Pallets](#color-pallets)
+10. [Curated Lists](#curated-lists)
+ 
 
-### Backgrounds & Banner Templates
-- [Vecteezy](https://www.vecteezy.com/free-vector/background)
-- SVG backgrounds are much smaller than using a traditional background images. [Here's a tool](https://svgbackgrounds.com) which lets you quickly generate them by choosing from various patterns and colors.
+## Illustrations
+|Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
+|-----------------|---------------------
+| [Humaaans](https://www.humaaans.com/) | 
+| [Free Illustrations](https://lukaszadam.com/illustrations) | 
+| [Drawkit](https://www.drawkit.io/) | 
+| [Open Doodles](https://opendoodles.com) | 
+| [Absurd Design](https://absurd.design) | 
+| [Freepik](https://freepik.com) | 
+| [Undraw Illustrations](https://undraw.co/illustrations) | Overused now though and quality is not great.
+| [Black illustrations](https://www.blackillustrations.com/) | Illustrations of people of color.
+| [Open Game Art](https://opengameart.org/) | 
+| [Mixkit stock art](https://mixkit.co/free-stock-art/) | 
+| [Control.Rocks](https://control.rocks/) | 
+| [Blush](https://blush.design/) | 
 
-### Animations
-- [Lottiefiles](https://lottiefiles.com/) (Some are free, some are paid.) 
+## Backgrounds & Banner Templates
+|Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
+|-----------------|---------------------
+| [Vecteezy](https://www.vecteezy.com/free-vector/background) | 
+| [SVG backgrounds](https://svgbackgrounds.com) | SVG Backgrounds are much smaller than using a traditional background images. This tool lets you quickly generate them by choosing from various patterns and colors.
 
-### Images
-- [Unsplash](https://unsplash.com/)
-- [Free Images](https://freeimages.com/)
-- [Pixabay](https://pixabay.com/)
-- [Pexels](https://www.pexels.com/)
+## Animations
+|Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
+|-----------------|---------------------
+| [Lottiefiles](https://lottiefiles.com/) | Some are free, some are paid.
 
-### Icons
-- [Devicon Icons](https://devicons.github.io/devicon/)
-- [Teeny Icons](https://teenyicons.com]
+## Images
+|Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
+|-----------------|---------------------
+| [Unsplash](https://unsplash.com/) |
+| [Free Images](https://freeimages.com/) |
+| [Pixabay](https://pixabay.com/) |
+| [Pexels](https://pexels.com/) |
 
-### Video & Music
-- [Mixkit](https://mixkit.co/)
+## Icons
+|Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
+|-----------------|---------------------
+| [Devicon Icons](https://devicons.github.io/devicon/) |
+| [Teeny Icons](https://teenyicons.com) |
 
-### CSS Effects
-- [CSS Gradients](https://cssgradient.io/)
+## Video & Music
+|Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
+|-----------------|---------------------
+| [Mixkit](https://mixkit.co/) |
 
-### Color Pallets
-- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
+## CSS Effects
+|Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
+|-----------------|---------------------
+| [CSS Gradients](https://cssgradient.io/) |
 
-### Curated Lists
-- [Orchomenos](https://orchomenos.github.io/Design-resources/#0) (More focused on **color pallets** and **font packs**)
-- **[Traversy Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)**
-- [wweb.dev](https://wweb.dev/resources/free-svg-illustrations)
-- [A collection of unDraw alternatives](https://danielvoelk.de/en/top-3-undraw-alternatives-compared/)
-- [16 Places to Get Free Illustrations](https://digifloat.io/blog/get-free-illustrations-images/)
+## Color Pallets
+|Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
+|-----------------|---------------------
+| [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) |
+
+## Curated Lists
+|Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
+|-----------------|---------------------
+| [Orchomenos](https://orchomenos.github.io/Design-resources/#0) | More focused on **color pallets** and **font packs**
+| **[Traversy Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)** |
+| [wweb.dev](https://wweb.dev/resources/free-svg-illustrations) |
+| [A collection of unDraw alternatives](https://danielvoelk.de/en/top-3-undraw-alternatives-compared/) |
+| [16 Places to Get Free Illustrations](https://digifloat.io/blog/get-free-illustrations-images/) |
 
 
 
