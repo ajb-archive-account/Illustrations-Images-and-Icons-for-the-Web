@@ -20,7 +20,7 @@
 | [Free Illustrations](https://lukaszadam.com/illustrations) | 
 | [Drawkit](https://www.drawkit.io/) | 
 | [Open Doodles](https://opendoodles.com) | 
-| [Absurd Design](https://absurd.design) | Basic tier is free
+| [Absurd Design](https://absurd.design) | Basic tier is free.
 | [Freepik](https://freepik.com) | 
 | [Undraw Illustrations](https://undraw.co/illustrations) | Overused now though and quality is not great.
 | [Black illustrations](https://www.blackillustrations.com/) | Illustrations of people of color.
@@ -28,6 +28,7 @@
 | [Mixkit stock art](https://mixkit.co/free-stock-art/) | 
 | [Control.Rocks](https://control.rocks/) | 
 | [Blush](https://blush.design/) | 
+| [Icons8 illustrations](https://icons8.com/illustrations) | Free vector illustrations & vector creator tool.
 
 [(TOC)](#toc)
 
@@ -53,15 +54,17 @@
 | [Free Images](https://freeimages.com/) |
 | [Pixabay](https://pixabay.com/) |
 | [Pexels](https://pexels.com/) |
+| [Photos.icons8](https://photos.icons8.com/) | Stock photos & photo creator/ editing tool.
 
 [(TOC)](#toc)
 
 ## Icons
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
 |-----------------|---------------------
-| [Devicon Icons](https://devicons.github.io/devicon/) | Icons representing programming languages, design & development tools
+| [Devicon Icons](https://devicons.github.io/devicon/) | Icons representing programming languages, design & development tools.
 | [Teeny Icons](https://teenyicons.com) |
 | [Font Awesome](https://fontawesome.com/icons) | Free & paid tiers, Pro plans ($99) get more icons, styles, kits, pageviews, & human tech support.
+| [icons8](https://icons8.com/icons) | 134,000 FREE ICONS.
 
 [(TOC)](#toc)
 
@@ -69,6 +72,7 @@
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
 |-----------------|---------------------
 | [Mixkit](https://mixkit.co/) |
+| [Icons8 Music](https://icons8.com/music) | Free music for non-commercial use.
 
 [(TOC)](#toc)
 
@@ -89,7 +93,7 @@
 ## Curated Lists
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
 |-----------------|---------------------
-| [Orchomenos](https://orchomenos.github.io/Design-resources/#0) | More focused on **color pallets** and **font packs**
+| [Orchomenos](https://orchomenos.github.io/Design-resources/#0) | More focused on **color pallets** and **font packs**.
 | **[Traversy Design Resources for Developers](https://github.com/bradtraversy/design-resources-for-developers)** |
 | [wweb.dev](https://wweb.dev/resources/free-svg-illustrations) |
 | [A collection of unDraw alternatives](https://danielvoelk.de/en/top-3-undraw-alternatives-compared/) |
