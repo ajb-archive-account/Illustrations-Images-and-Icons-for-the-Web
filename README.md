@@ -29,9 +29,7 @@
 | [Control.Rocks](https://control.rocks/) | 
 | [Blush](https://blush.design/) | 
 
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
+[(TOC)](#toc)
 
 ## Backgrounds & Banner Templates
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
@@ -39,18 +37,14 @@
 | [Vecteezy](https://www.vecteezy.com/free-vector/background) | 
 | [SVG backgrounds](https://svgbackgrounds.com) | SVG Backgrounds are much smaller than using a traditional background images. This tool lets you quickly generate them by choosing from various patterns and colors.
 
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
+[(TOC)](#toc)
 
 ## Animations
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
 |-----------------|---------------------
 | [Lottiefiles](https://lottiefiles.com/) | Some are free, some are paid.
 
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
+[(TOC)](#toc)
 
 ## Images
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
@@ -60,9 +54,7 @@
 | [Pixabay](https://pixabay.com/) |
 | [Pexels](https://pexels.com/) |
 
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
+[(TOC)](#toc)
 
 ## Icons
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
@@ -71,36 +63,28 @@
 | [Teeny Icons](https://teenyicons.com) |
 | [Font Awesome](https://fontawesome.com/icons) | Free & paid tiers, Pro plans ($99) get more icons, styles, kits, pageviews, & human tech support.
 
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
+[(TOC)](#toc)
 
 ## Video & Music
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
 |-----------------|---------------------
 | [Mixkit](https://mixkit.co/) |
 
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
+[(TOC)](#toc)
 
 ## CSS Effects
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
 |-----------------|---------------------
 | [CSS Gradients](https://cssgradient.io/) |
 
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
+[(TOC)](#toc)
 
 ## Color Pallets
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
 |-----------------|---------------------
 | [Adobe Color Wheel](https://color.adobe.com/create/color-wheel) |
 
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
+[(TOC)](#toc)
 
 ## Curated Lists
 |Link &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Comments
@@ -111,9 +95,7 @@
 | [A collection of unDraw alternatives](https://danielvoelk.de/en/top-3-undraw-alternatives-compared/) |
 | [16 Places to Get Free Illustrations](https://digifloat.io/blog/get-free-illustrations-images/) |
 
-<div align="right">
-    <b><a href="#table-of-contents">↥ Back To Top</a></b>
-</div>
+[(TOC)](#toc)
 
 
 
